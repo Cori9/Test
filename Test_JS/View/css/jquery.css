@@ -1,0 +1,317 @@
+/*PAGE HOME START*/
+
+@media (max-width: 440px){
+  .hand{
+    margin: auto;
+    width: 450px;
+    height: 273px;
+  background-image: url("../img/hand/Home440.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand440.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+  .hidden_img{
+    display: none;
+  }
+  .valeur1{
+    display: none;}
+
+  .valeur2{
+    display: none;}
+
+  .valeur3{
+    display: none;}
+
+  .valeur4{
+    display: none;}
+
+  .valeur5{
+    display: none;}
+
+  .valeur6{
+    display: none;}
+
+  .valeur7{
+    display: none;}
+
+  .valeur8{
+    display: none;}
+
+  .valeur9{
+    display: none;}
+}
+
+@media (min-width: 440px){
+  .hand{
+  margin: auto;
+  width: 660px;
+  height: 387px;
+  background-image: url("../img/hand/Home768.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand768.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+
+.valeur1{
+  position: relative;
+  top: 75px;
+  left: 170px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur2{
+  position: relative;
+  top: 330px;
+  left: 200px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur3{
+  position: relative;
+  top: 240px;
+  left: 25px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur4{
+  position: relative;
+  top: 70px;
+  left: 285px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur5{
+  position: relative;
+  top: 270px;
+  left: 120px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur6{
+  position: relative;
+  top: 400px;
+  left: 175px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur7{
+  position: relative;
+  top: 200px;
+  left: -100px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur8{
+  position: relative;
+  top: 20px;
+  left: -60px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+
+.valeur9{
+  position: relative;
+  top: 240px;
+  left: 30px;
+  font-family: cambria;
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+  font-size: 15px;}
+}
+
+
+@media (min-width: 768px){
+  .hand{
+    margin: auto;
+    width: 660px;
+    height: 387px;
+  background-image: url("../img/hand/Home768.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand768.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+}
+
+
+@media (min-width: 992px) {
+  .hand{
+    margin: auto;
+    width: 660px;
+    height: 587px;
+  background-image: url("../img/hand/Home992.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand992.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+
+  .valeur1{
+    display: none;
+    position: relative;
+    top: 80px;
+    left: 80px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur2{
+    display: none;
+    position: relative;
+    top: 360px;
+    left: -40px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur3{
+    display: none;
+    position: relative;
+    top: 420px;
+    left: 50px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur4{
+    display: none;
+    position: relative;
+    top: 80;
+    left: 285;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur5{
+    display: none;
+    position: relative;
+    top: 450px;
+    left: 15px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur6{
+    display: none;
+    position: relative;
+    top: 400px;
+    left: 175px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur7{
+    display: none;
+    position: relative;
+    top: 200px;
+    left: -100px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur8{
+    display: none;
+    position: relative;
+    top: 25px;
+    left: -180px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+
+  .valeur9{
+    display: none;
+    margin: 0;
+    position: relative;
+    top: 190px;
+    left: -46px;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;}
+}
+
+
+
+@media (min-width: 1200px) {
+  .hand{
+  margin: auto;
+  width: 660px;
+  height: 600px;
+  background-image: url("../img/hand/Home1200.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand1200.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+}
+
+
+  /*PAGE HOME END*/

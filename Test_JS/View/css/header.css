@@ -1,0 +1,176 @@
+
+
+/*HEADER START CSS*/
+
+.well header{
+  background-color: #878787;
+}
+
+.text-header h1, .text-header h2{
+  text-align: center;
+  font-family: cambria;
+  font-size: 80px;
+  color: #800000;
+  margin-top: 30px;
+}
+
+
+.text-header h2{
+  text-align: center;
+  font-family: cambria;
+  font-size: 50px;
+  color: #800000;
+  margin: 0;
+}
+
+/*HEADER END CSS*/
+
+
+/*NAVBAR START CSS*/
+
+pre {
+    tab-size: 8;
+}
+
+@media screen and (max-width: 768px) {
+    .side-collapse-container{
+        width:100%;
+        position:relative;
+        left:0;
+        transition:left .4s;
+    }
+    .side-collapse-container.out{
+        left:200px;
+    }
+    .side-collapse {
+        top:50px;
+        bottom:0;
+        left:0;
+        width:200px;
+        position:fixed;
+        overflow:hidden;
+        transition:width .4s;
+    }
+    .side-collapse.in {
+        width:0;
+    }
+}
+
+.navbar{
+  font-family: cambria;
+  font-size: 16px;
+}
+
+.dropdown-menu>li>a{
+  color: #800000;
+  font-weight: bold;
+}
+
+.dropdown-menu>li>a:hover {
+    color: #bd0505;
+    text-decoration: none;
+    background-color: #7e7e7e;
+}
+@media (max-width: 767px){
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #800000;
+}
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #800000;
+    background-color: #7e7e7e;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #bd0505;
+    background-color: transparent;
+}
+
+.dropdown-menu>li>a{
+  color: #800000;
+  font-weight: bold;
+}
+
+.dropdown-menu>li>a:hover {
+    color: #bd0505;
+    text-decoration: none;
+    background-color: #7e7e7e;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color: #800000;
+  font-weight: bold;
+}
+
+.navbar-inverse{
+  background-color: #a6a6a6;
+  border-color: #a6a6a6;
+}
+
+
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #800000;
+    background-color: #7e7e7e;
+}
+
+.navbar-nav>li>.dropdown-menu{
+  /*background-color: #383838;*/
+}
+/*.navbar{
+  background-color: #878787;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #800000;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #800000;
+    font-weight: bold;
+    background-color: #e7e7e7;
+    border-radius: 30px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-container {
+    padding: 20px 0 20px 0;
+}
+
+.fixed-theme{
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  z-index: 1030;
+}
+
+.navbar.navbar-default.fixed-theme {
+    background-color: #222;
+    border-color: #080808;
+    box-shadow: 0 0 5px rgba(0,0,0,.8);
+}
+
+.navbar-brand.fixed-theme {
+    font-size: 18px;
+}
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-default.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}*/
+
+
+/*NAVBAR END CSS*/

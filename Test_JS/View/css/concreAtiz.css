@@ -1,0 +1,301 @@
+body{
+  background-color: rgba(235, 235, 235, 0.5);
+  /*font-family: cambria;*/
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: cambria;
+  color: #800000;
+}
+
+.material-icons.md-48 {
+  font-size: 38px;
+  top: -4px;
+ }
+
+/*PAGE HOME START*/
+
+
+
+  .creation_reprise a{
+    position: absolute;
+    top: 650px;
+    left: 250px;
+    font-family: cambria;
+    font-weight: bold;
+    color: #800000;
+    font-size: 20px;
+    background-color: green;
+    height: 20px;
+    width: 30px;
+  }
+}
+
+/*PAGE HOME END*/
+
+
+/*CONTENT START CSS*/
+/*.creation_reprise a{
+  position: absolute;
+  top: 650px;
+  left: 250px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+  background-color: green;
+  height: 20px;
+  width: 30px;
+}*/
+
+.metier1 a{
+  position: absolute;
+  top: 450px;
+  left: 150px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+}
+
+.metier2 a{
+  position: absolute;
+  top: 220px;
+  left: 220px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+}
+
+.metier3 a{
+  position: absolute;
+  top: 100px;
+  left: 380px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+}
+
+.metier4 a{
+  position: absolute;
+  top: 450px;
+  left: 150px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+}
+
+.metier5 a{
+  position: absolute;
+  top: 450px;
+  left: 150px;
+  font-family: cambria;
+  font-weight: bold;
+  color: #800000;
+  font-size: 20px;
+}
+/*CONTENT END CSS*/
+
+/*PAGE START CSS*/
+
+/*.iconcontainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}*/
+
+.iconbox {
+  background: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.16), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  padding: 20px 25px;
+  text-align: right;
+  display: block;
+  margin-top: 60px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.iconbox-icon {
+  background-color: #800000;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
+  margin-top: -70px;
+}
+
+.iconbox-icon span {
+  color: #fff;
+  font-size: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 16px;
+  text-align: center;
+  vertical-align: middle;
+}
+.featureinfo h4 {
+  font-size: 26px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.featureinfo > p {
+  color: #000000;
+  font-size: 16px;
+  padding-top: 4px;
+  text-align: left;
+}
+.btn-default {
+  text-shadow: 0px 1px 0px #FFF;
+  background-image: linear-gradient(to bottom, #FFF 0px, #E0E0E0 100%);
+  background-repeat: repeat-x;
+  border-color: #CCC;
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 1px rgba(0, 0, 0, 0.075);
+}
+.btn-default:hover,
+.btn-default:focus {
+  background-color: #e0e0e0;
+  background-position: 0 -15px
+}
+
+.marge_img_metier{
+/*margin-top: 60px;*/
+margin-bottom: 15px;
+}
+
+.jumbotron{
+  border: 2px solid #cccaca;
+}
+
+.img-resp img{
+  width: 100%;
+  height: 100%;
+}
+
+.text-background {
+  border-radius: 10px;
+  background: #f5f5f5;
+}
+
+/*ENGAGEMENT START CSS*/
+
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans);*/
+@media (min-width: 768px){
+  #circle-shape-example {
+  font-family: Open Sans, sans-serif;
+  margin: 2rem;
+  }
+
+  #circle-shape-example .curve {
+  width: 49%; height: auto;
+  min-width: 150px;
+  float: left;
+  margin-right:14rem;
+  border-radius: 50%;
+  -webkit-shape-outside:circle();
+  shape-outside:circle();
+  }
+}
+
+@media (max-width: 768px){
+  #circle-shape-example {
+  font-family: Open Sans, sans-serif;
+  margin: 1rem;
+  }
+
+  #circle-shape-example .curve {
+  width: 49%; height: auto;
+  min-width: 150px;
+  float: left;
+  margin-right:12rem;
+  border-radius: 50%;
+  -webkit-shape-outside:circle();
+  shape-outside:circle();
+  }
+}
+
+/*#circle-shape-example {
+font-family: Open Sans, sans-serif;
+margin: 2rem;
+}*/
+#circle-shape-example p {
+line-height: 1.8;
+}
+
+/*ENGAGEMENT END CSS*/
+
+/*PARTENAIRE START CSS*/
+.partenaire h1{
+  color: #800000;
+  font-family: cambria;
+}
+
+.my_well_partn {
+    min-height: 20px;
+    /*padding: 19px;*/
+    /*margin-bottom: 20px;*/
+    background-color: #ffffff;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+/*PARTENAIRE END CSS*/
+
+/*PAGE END CSS*/
+
+/*CONTACT START CSS*/
+.details li {
+  list-style: none;
+  margin-bottom:10px;
+}
+/*CONTACT END CSS*/
+
+
+
+/*TEST CAROUSEL*/
+
+body { padding:0px; }
+
+#myCarousel .carousel-caption {
+    left:0;
+    right:0;
+	bottom:0;
+	text-align:left;
+	padding:10px;
+	background:rgba(0,0,0,0.6);
+	text-shadow:none;
+}
+
+#myCarousel .list-group{
+	position:absolute;
+	top:5px;
+	right:0px;
+}
+
+#myCarousel .list-group-item {
+	border-radius:2px;
+	cursor:pointer;
+}
+
+#myCarousel .list-group .active {
+	background-color:#337ab7;
+}
+
+@media (min-width: 992px) {
+	#myCarousel {padding-right:0%;}
+}
+@media (max-width: 991px) {
+	.carousel-caption p,
+	#myCarousel .list-group {display:none;}
+}
+
+/*FIN TEST CAROUSEL*/
