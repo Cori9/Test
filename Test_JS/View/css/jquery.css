@@ -64,95 +64,51 @@
   background-size: cover;
   }
 
+  .valeur1, .valeur2, .valeur3, .valeur4, .valeur5, .valeur6, .valeur7, .valeur8, .valeur9
+  {
+    position: relative;
+    font-family: cambria;
+    font-style: italic;
+    font-weight: bold;
+    color: #800000;
+    font-size: 15px;}
+  }
+
 .valeur1{
-  position: relative;
   top: 75px;
-  left: 170px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 170px;}
 
 .valeur2{
-  position: relative;
   top: 330px;
-  left: 200px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 200px;}
 
 .valeur3{
-  position: relative;
   top: 240px;
-  left: 25px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 25px;}
 
 .valeur4{
-  position: relative;
   top: 70px;
-  left: 285px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 285px;}
 
 .valeur5{
-  position: relative;
   top: 270px;
-  left: 120px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 120px;}
 
 .valeur6{
-  position: relative;
   top: 400px;
-  left: 175px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 175px;}
 
 .valeur7{
-  position: relative;
   top: 200px;
-  left: -100px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: -100px;}
 
 .valeur8{
-  position: relative;
   top: 20px;
-  left: -60px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: -60px;}
 
 .valeur9{
-  position: relative;
   top: 240px;
-  left: 30px;
-  font-family: cambria;
-  font-style: italic;
-  font-weight: bold;
-  color: #800000;
-  font-size: 15px;}
+  left: 30px;}
 }
 
 
@@ -192,105 +148,52 @@
   background-size: cover;
   }
 
-  .valeur1{
+  .valeur1, .valeur2, .valeur3, .valeur4, .valeur5, .valeur6, .valeur7, .valeur8, .valeur9
+  {
     display: none;
     position: relative;
-    top: 80px;
-    left: 80px;
     font-family: cambria;
     font-style: italic;
     font-weight: bold;
     color: #800000;
     font-size: 20px;}
+  }
+
+  .valeur1{
+    top: 80px;
+    left: 80px;}
 
   .valeur2{
-    display: none;
-    position: relative;
     top: 360px;
-    left: -40px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: -40px;}
 
   .valeur3{
-    display: none;
-    position: relative;
     top: 420px;
-    left: 50px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: 50px;}
 
   .valeur4{
-    display: none;
-    position: relative;
     top: 80;
-    left: 285;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: 285;}
 
   .valeur5{
-    display: none;
-    position: relative;
     top: 450px;
-    left: 15px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: 15px;}
 
   .valeur6{
-    display: none;
-    position: relative;
     top: 400px;
-    left: 175px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: 175px;}
 
   .valeur7{
-    display: none;
-    position: relative;
     top: 200px;
-    left: -100px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: -100px;}
 
   .valeur8{
-    display: none;
-    position: relative;
     top: 25px;
-    left: -180px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: -180px;}
 
   .valeur9{
-    display: none;
-    margin: 0;
-    position: relative;
     top: 190px;
-    left: -46px;
-    font-family: cambria;
-    font-style: italic;
-    font-weight: bold;
-    color: #800000;
-    font-size: 20px;}
+    left: -46px;}
 }
 
 

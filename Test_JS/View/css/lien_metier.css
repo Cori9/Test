@@ -1,0 +1,28 @@
+@media (min-width: 992px) {
+.lien1{
+  position: relative;
+  top: 90px;
+  left: 90px;
+  color: blue;
+}
+}
+
+
+
+@media (min-width: 1200px) {
+  .hand{
+  margin: auto;
+  width: 660px;
+  height: 600px;
+  background-image: url("../img/hand/Home1200.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .back_hand{
+  background-image: url("../img/hand/hand1200.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+}

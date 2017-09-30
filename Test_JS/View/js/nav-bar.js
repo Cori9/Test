@@ -38,7 +38,7 @@ var myNavBar = {
     remove: function() {
         for(var i=0; i < this.elements.length; i++) {
             document.getElementById(this.elements[i]).className =
-                    document.getElementById(this.elements[i]).className.replace( /(?:^|\s)fixed-theme(?!\S)/g , '' );
+            document.getElementById(this.elements[i]).className.replace( /(?:^|\s)fixed-theme(?!\S)/g , '' );
         }
         this.flagAdd = true;
     }
